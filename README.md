@@ -1,2 +1,2 @@
-# End-to-end Movie Recommendation System
+# Movie Recommendation System
 Content-based Movie Recommendation System deployed on Heroku.
